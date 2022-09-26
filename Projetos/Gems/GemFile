@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+gem 'faker',
+gem 'os',
+gem 'cpf_cnpj'
+
